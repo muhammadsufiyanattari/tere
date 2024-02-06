@@ -646,6 +646,13 @@ text-align: left;
 .footericon img{
   margin: 5px;
 }
+@media only screen and (max-width:400px){
+
+
+  .col div ul li {list-style: none;color: #9E9DA2;
+    line-height: 30px;text-align: center;
+
+}}
 
 
 @media only screen and (max-width:400px) {
